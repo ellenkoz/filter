@@ -1,6 +1,7 @@
 <html>
 <link rel="stylesheet" type="text/css" href="style.css">
 <script src="https://unpkg.com/vue"></script>
+<script src="vueTest.js"></script>
 
 <div id="app">
   <p>{{ messages }}</p>
